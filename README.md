@@ -1,2 +1,22 @@
-# English_to_French_translation_chatbot
-An English to French Translator Chatbot using Hugging Face’s pre-trained NLP model. It translates user input in real time and displays results with a typing effect, demonstrating practical machine translation and interactive chatbot design.
+# English to French Translator Chatbot
+
+An interactive chatbot that translates English text into French using Hugging Face’s pre-trained NLP models. The chatbot provides accurate translations along with a dynamic typing effect for a smooth and engaging user experience.
+
+## Project Description
+
+This project demonstrates a practical application of Natural Language Processing (NLP) using a pre-trained machine translation model. The chatbot accepts English input, processes it through a Hugging Face translation pipeline, and displays the French translation in real time. A typing animation is used to simulate natural response flow.
+
+## Features
+
+- English to French translation  
+- Uses Hugging Face model: `Helsinki-NLP/opus-mt-en-fr`  
+- Real-time typing effect  
+- Command-line based chatbot  
+- Exit command support (`quit`)
+
+## Technologies Used
+
+- Python  
+- Hugging Face Transformers  
+- Natural Language Processing (NLP)
+
