@@ -31,8 +31,8 @@ This project demonstrates a practical application of Natural Language Processing
 ## Sample Output
 
 Welcome to your Translator Chatbot! Type 'quit' to exit.
-You: Hello world
-Bot : Bonjour le monde
+- You: Hello world
+- Bot : Bonjour le monde
 
 ## Learning Outcomes
 
