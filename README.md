@@ -20,3 +20,32 @@ This project demonstrates a practical application of Natural Language Processing
 - Hugging Face Transformers  
 - Natural Language Processing (NLP)
 
+## Install Dependencies
+
+- pip install transformers torch
+
+## Run the chatbot
+
+- python translator_chatbot.py
+
+## Sample Output
+
+Welcome to your Translator Chatbot! Type 'quit' to exit.
+You: Hello world
+Bot : Bonjour le monde
+
+## Learning Outcomes
+
+- Understanding of NLP translation pipelines
+- Hands-on experience with pre-trained models
+- Building interactive chatbot applications
+
+## Future Improvements
+
+- Support for multiple languages
+- Adjustable typing speed
+- GUI or web-based interface
+
+## License
+
+This project is intended for educational purposes.
