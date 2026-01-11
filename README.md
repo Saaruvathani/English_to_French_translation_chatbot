@@ -26,7 +26,8 @@ This project demonstrates a practical application of Natural Language Processing
 
 ## Run the chatbot
 
-- python translator_chatbot.py
+- Open this file in Google Colab
+- Run the File
 
 ## Sample Output
 
